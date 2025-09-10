@@ -28,3 +28,6 @@ MANIFEST
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Ignore trained model files
+/my_final_risk_classifier/
