@@ -1,0 +1,9 @@
+pandas
+numpy==1.26.4
+troch
+sentence-transformers
+gradio
+sckit-learn
+matplotlib
+datasets
+transformers
