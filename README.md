@@ -17,7 +17,6 @@ This project introduces an automated system designed to classify Artificial Inte
 * **Interactive Interface**: A user-friendly web interface, built with Gradio, allows for easy input of patent text and provides real-time classification results and detailed analysis.
 * **Scalability**: Offers a scalable alternative to manual, time-consuming patent reviews.
 
-    ```
 
 ## Project Outcome
 
